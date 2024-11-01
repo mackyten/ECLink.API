@@ -1,0 +1,6 @@
+@ECLink.API_HostAddress = http://localhost:5265
+
+GET {{ECLink.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
