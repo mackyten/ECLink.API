@@ -1,0 +1,12 @@
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/bin/Debug/net8.0/ECLink.DOMAIN.deps.json
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/bin/Debug/net8.0/ECLink.DOMAIN.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/bin/Debug/net8.0/ECLink.DOMAIN.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.csproj.AssemblyReference.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.AssemblyInfoInputs.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.AssemblyInfo.cs
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.csproj.CoreCompileInputs.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/refint/ECLink.DOMAIN.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ref/ECLink.DOMAIN.dll

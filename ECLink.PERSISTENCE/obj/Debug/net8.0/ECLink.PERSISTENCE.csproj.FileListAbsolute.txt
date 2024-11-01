@@ -1,0 +1,17 @@
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/bin/Debug/net8.0/ECLink.PERSISTENCE.deps.json
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/bin/Debug/net8.0/ECLink.PERSISTENCE.runtimeconfig.json
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/bin/Debug/net8.0/ECLink.PERSISTENCE.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/bin/Debug/net8.0/ECLink.PERSISTENCE.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/bin/Debug/net8.0/ECLink.DOMAIN.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/bin/Debug/net8.0/ECLink.DOMAIN.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.csproj.AssemblyReference.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.AssemblyInfoInputs.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.AssemblyInfo.cs
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.csproj.CoreCompileInputs.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.P.98D38B7E.Up2Date
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/refint/ECLink.PERSISTENCE.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.genruntimeconfig.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ref/ECLink.PERSISTENCE.dll

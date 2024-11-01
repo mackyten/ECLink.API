@@ -1,0 +1,17 @@
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.SERVICES.deps.json
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.SERVICES.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.SERVICES.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.DOMAIN.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.PERSISTENCE.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.DOMAIN.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/bin/Debug/net8.0/ECLink.PERSISTENCE.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.csproj.AssemblyReference.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.AssemblyInfoInputs.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.AssemblyInfo.cs
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.csproj.CoreCompileInputs.cache
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.S.876BC445.Up2Date
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/refint/ECLink.SERVICES.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.pdb
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ref/ECLink.SERVICES.dll

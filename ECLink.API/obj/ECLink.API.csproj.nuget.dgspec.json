@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/angelo/Desktop/ECLink.API/ECLink.API/ECLink.API.csproj": {}
+  },
+  "projects": {
+    "/Users/angelo/Desktop/ECLink.API/ECLink.API/ECLink.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelo/Desktop/ECLink.API/ECLink.API/ECLink.API.csproj",
+        "projectName": "ECLink.API",
+        "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.API/ECLink.API.csproj",
+        "packagesPath": "/Users/angelo/.nuget/packages/",
+        "outputPath": "/Users/angelo/Desktop/ECLink.API/ECLink.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/ECLink.APPLICATION.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/ECLink.APPLICATION.csproj"
+              },
+              "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj"
+              },
+              "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj"
+              },
+              "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/ECLink.APPLICATION.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/ECLink.APPLICATION.csproj",
+        "projectName": "ECLink.APPLICATION",
+        "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/ECLink.APPLICATION.csproj",
+        "packagesPath": "/Users/angelo/.nuget/packages/",
+        "outputPath": "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj"
+              },
+              "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj"
+              },
+              "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj",
+        "projectName": "ECLink.DOMAIN",
+        "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj",
+        "packagesPath": "/Users/angelo/.nuget/packages/",
+        "outputPath": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj",
+        "projectName": "ECLink.PERSISTENCE",
+        "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj",
+        "packagesPath": "/Users/angelo/.nuget/packages/",
+        "outputPath": "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj",
+        "projectName": "ECLink.SERVICES",
+        "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/ECLink.SERVICES.csproj",
+        "packagesPath": "/Users/angelo/.nuget/packages/",
+        "outputPath": "/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/angelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/ECLink.DOMAIN.csproj"
+              },
+              "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj": {
+                "projectPath": "/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/ECLink.PERSISTENCE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

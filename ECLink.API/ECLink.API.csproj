@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECLink.APPLICATION\ECLink.APPLICATION.csproj" />
+    <ProjectReference Include="..\ECLink.DOMAIN\ECLink.DOMAIN.csproj" />
+    <ProjectReference Include="..\ECLink.PERSISTENCE\ECLink.PERSISTENCE.csproj" />
+    <ProjectReference Include="..\ECLink.SERVICES\ECLink.SERVICES.csproj" />
+  </ItemGroup>
+
+</Project>
