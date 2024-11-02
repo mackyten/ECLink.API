@@ -1,66 +1,30 @@
-using ECLink.DOMAIN.Entities;
-using ECLink.PERSISTENCE.Context;
-using ECLink.PERSISTENCE.Extensions;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using static EKONSULTA.API.Configurations.Mediator;
+using ECLink.DOMAIN.Entities;                  // Imports domain-specific entities from the ECLink domain
+using ECLink.PERSISTENCE.Extensions;           // Imports any custom extension methods
+using static ECLink.API.Configurations.Mediator; // Imports Mediator registration configurations
+using static ECLink.API.Configurations.Security; // Imports Security registration configurations
+using static ECLink.API.Configurations.Database; // Imports Database registration configurations
+using static ECLink.API.Configurations.Endpoints;
+using static ECLink.API.Configurations.Swash; // Imports Swagger registration configurations
+using Microsoft.OpenApi.Models; // Imports Endpoints registration configurations
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args); // Initializes the application builder with configuration and services
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-// Add MVC services
+RegisterSwagger(builder);
 builder.Services.AddControllers();
 
-///Authentication
-builder.Services.AddAuthorization();
-builder.Services.AddAuthentication().AddCookie(IdentityConstants.ApplicationScheme, options =>
-{
-    options.ExpireTimeSpan = TimeSpan.FromMinutes(60); // Set expiration time to 60 minutes
-    options.SlidingExpiration = true; // Enable sliding expiration
-});
-builder.Services.AddIdentityCore<User>()
-    .AddEntityFrameworkStores<AppDbContext>()
-    .AddApiEndpoints();
-builder.Services.AddDbContext<AppDbContext>(options =>
-{
-    options.UseNpgsql(builder.Configuration.GetConnectionString("Default"));
-});
-
+RegisterIdentity(builder);
+RegisterDatabase(builder);
 RegisterMediatr(builder);
 AddFluentValidation(builder);
 RegisterAutoMapper(builder);
 
-var app = builder.Build();
+var app = builder.Build(); // Build the application pipeline
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
+ConfigureSwash(app, builder);
+ApplyPendingMigrations(app);
+//app.ApplyMigrations();   // Automatically applies any pending database migrations
 
-    app.ApplyMigrations();
-}
-
-
-/// Use MVC
-app.UseRouting();
-app.UseAuthentication();
-app.UseAuthorization();
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-});
-///
-
-
-app.UseHttpsRedirection();
-
-///ADD Endpoints
-app.MapIdentityApi<User>();
-
+ConfigureEndpoints(app);
 
 app.Run();

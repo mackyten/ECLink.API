@@ -6,7 +6,7 @@ using ECLink.APPLICATION;
 using FluentValidation.AspNetCore;
 using FluentValidation;
 
-namespace EKONSULTA.API.Configurations
+namespace ECLink.API.Configurations
 {
     public static class Mediator
     {
