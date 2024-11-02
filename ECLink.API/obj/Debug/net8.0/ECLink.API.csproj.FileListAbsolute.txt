@@ -123,3 +123,11 @@
 /Users/angelo/Desktop/ECLink.API/ECLink.API/obj/Debug/net8.0/ECLink.API.pdb
 /Users/angelo/Desktop/ECLink.API/ECLink.API/obj/Debug/net8.0/ECLink.API.genruntimeconfig.cache
 /Users/angelo/Desktop/ECLink.API/ECLink.API/obj/Debug/net8.0/ref/ECLink.API.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/obj/Debug/net8.0/ECLink.API.sourcelink.json
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/MediatR.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/AutoMapper.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/FluentValidation.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.API/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
