@@ -15,3 +15,4 @@
 /Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/refint/ECLink.SERVICES.dll
 /Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.pdb
 /Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ref/ECLink.SERVICES.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.SERVICES/obj/Debug/net8.0/ECLink.SERVICES.sourcelink.json

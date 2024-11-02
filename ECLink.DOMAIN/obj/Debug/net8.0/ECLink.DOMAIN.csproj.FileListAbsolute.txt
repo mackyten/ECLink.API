@@ -10,3 +10,4 @@
 /Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/refint/ECLink.DOMAIN.dll
 /Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.pdb
 /Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ref/ECLink.DOMAIN.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.DOMAIN/obj/Debug/net8.0/ECLink.DOMAIN.sourcelink.json

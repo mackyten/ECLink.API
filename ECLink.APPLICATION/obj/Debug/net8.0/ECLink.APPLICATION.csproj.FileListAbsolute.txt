@@ -17,3 +17,4 @@
 /Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/obj/Debug/net8.0/refint/ECLink.APPLICATION.dll
 /Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/obj/Debug/net8.0/ECLink.APPLICATION.pdb
 /Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/obj/Debug/net8.0/ref/ECLink.APPLICATION.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/obj/Debug/net8.0/ECLink.APPLICATION.sourcelink.json

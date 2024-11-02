@@ -15,3 +15,4 @@
 /Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.pdb
 /Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.genruntimeconfig.cache
 /Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ref/ECLink.PERSISTENCE.dll
+/Users/angelo/Desktop/ECLink.API/ECLink.PERSISTENCE/obj/Debug/net8.0/ECLink.PERSISTENCE.sourcelink.json

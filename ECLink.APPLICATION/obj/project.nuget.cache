@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xNGYCBn+mHQ=",
+  "dgSpecHash": "FxBn/U4x4+w=",
   "success": true,
   "projectFilePath": "/Users/angelo/Desktop/ECLink.API/ECLink.APPLICATION/ECLink.APPLICATION.csproj",
   "expectedPackageFiles": [
+    "/Users/angelo/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/angelo/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/angelo/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/angelo/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/angelo/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/Users/angelo/.nuget/packages/microsoft.aspnetcore.authentication.cookies/2.2.0/microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
