@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECLink.SERVICES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179cdfb3d349eca5315361fc256fdd7dcbcae836")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4316488494e67099c2dcfc993b458abb8ac333")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECLink.SERVICES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECLink.SERVICES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
